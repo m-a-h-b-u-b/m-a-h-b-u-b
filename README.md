@@ -1,4 +1,4 @@
-# 👨‍💻 Md Mahbubur Rahman  
+# Md Mahbubur Rahman  
 
 I am simple, nothing special. I love programming, have a tendency to argue with compilers, and With FastAPI + TorchServe, my AI serves predictions faster than a barista serves coffee. I trained models on SageMaker, Vertex AI, and Azure ML—basically, I’m in a polycloud relationship. My pipelines are so smooth, ETL stands for “Extremely Tasty Latte”. I use Kafka so much that even my morning coffee comes with a consumer group. 
 
@@ -29,16 +29,16 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 
 ## 🛠️ Toolbox
 
-- **Programming:** Python |  Rust | ☕️ JavaScript/Node.js | ➕ C/C++ | Go (Certified)  
-- **Databases:**  PostgreSQL |  MySQL | 🍃 MongoDB (Certified) | 🛋️ Couchbase | ⚡ Redis  
-- **System Design & Architecture:** 🔗 REST | 🧩 GraphQL | 📡 Kafka | 📨 RabbitMQ | 🏗️ CQRS  
-- **DevOps:** 🐳 Docker | ☸️ Kubernetes | 🌍 Terraform | 📜 Ansible | ⚙️ GitHub Actions | 🚀 CI/CD  
-- **Cloud AI Services:** ☁️ AWS SageMaker | 🔮 GCP Vertex AI | 💠 Azure ML  
-- **AI & Machine Learning:** 🧠 NLU | 🎙️ Whisper | 🔲 CNNs | 🎵 librosa (Audio/MFCCs)  
-- **MLOps & Model Serving:** ⚡ FastAPI | 🔥 TorchServe | 🔮 TensorFlow Serving  
-- **Data Pipelines & Streaming:** 🔄 ETL workflows (Airflow, Prefect) | 📡 Kafka Streams | ⚡ Apache Spark | 🌊 Apache Flink  
-- **AI-Driven Systems:** 🗣️ TTS pipelines | 📚 Large-scale NLP inference  
-- **Testing:** 🧪 pytest | cargo test | ✅ Jest | ☕ Mocha + Chai  
+- **Programming:** Python |  Rust | JavaScript/Node.js |  C/C++ | Go (Certified)  
+- **Databases:**  PostgreSQL |  MySQL |  MongoDB (Certified) |  Couchbase |  Redis  
+- **System Design & Architecture:**  REST |  GraphQL | gRPC |  Kafka |  RabbitMQ |  CQRS  
+- **DevOps:**  Docker |  Kubernetes |  Terraform |  Ansible |  GitHub Actions |  CI/CD  
+- **Cloud AI Services:**  AWS SageMaker | GCP Vertex AI | Azure ML  
+- **AI & Machine Learning:**  NLU | 🎙 Whisper | CNNs | librosa (Audio/MFCCs)  
+- **MLOps & Model Serving:**  FastAPI |  TorchServe |  TensorFlow Serving  
+- **Data Pipelines & Streaming:** ETL workflows (Airflow, Prefect) |  Kafka Streams |  Apache Spark |  Apache Flink  
+- **AI-Driven Systems:** TTS pipelines | Large-scale NLP inference  
+- **Testing:**  pytest | cargo test | Jest | Mocha + Chai  
 
 ## ⚡ Fun Facts
 - My code compiles 87% of the time on the first try.  
