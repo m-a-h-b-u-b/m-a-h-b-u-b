@@ -1,20 +1,20 @@
 # 👨‍💻 Md Mahbubur Rahman  
 
-10+ years in tech, 530+ problems solved, US & EU patent published on Wireless Charging, and countless coffee mugs emptied.  
+10+ years in tech, 530+ competitive programming problems solved, US & EU patent published on Wireless Charging, and countless coffee mugs emptied.  
 Currently coding, optimizing, and occasionally arguing with compilers.  
 
-🌐 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [Unix.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [GitHub](https://github.com/m-a-h-b-u-b)
+🌐 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [SoftEng.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [Unix.SE](https://unix.stackexchange.com/users/23069/md-mahbubur-rahman) | [GitHub](https://github.com/m-a-h-b-u-b)
 
 ## 🏆 Achievements
-- Top 1000 in competitive programming 🌍  
-- IEEE Best Paper Award (13.4% reduced error of measured distance)  
-- Samsung Outstanding Contribution Award  
-- Rise Up Labs Best Team Lead Award
+- [Top 1000]((https://github.com/m-a-h-b-u-b)) in competitive programming 🌍  
+- [IEEE Best Paper Award](https://ieeexplore.ieee.org/document/7042942) (13.4% reduced error of measured distance)  
+- [Outstanding Contribution Award](https://github.com/m-a-h-b-u-b/r/blob/main/certs/SAMSUNG-connectivity-team-contribution.png) - Samsung Research  
+- [Best Team Lead Award](https://github.com/m-a-h-b-u-b/r/blob/main/certs/Best-TEAM-Lead-RiseUpLabs.png) - Rise Up Labs ((For dedication, punctuality & problem solving ))
 
 --- 
 
 **Open Source Contribution** 
-- SecuriteIoTOS (Designed and developed a secure tiny Operating System for ARM Cortex-M IoT devices using Rust)
+- SecureIoTOS (Designed and developed a secure tiny Operating System for ARM Cortex-M IoT devices using Rust)
 - M2 Fraud Detection System (Real-time fraud detection platform for financial transactions using ML Isolation Forest)
 - M2 Spam Detector AI (Next-gen scalable AI spam detector with BERT-class transformers, ensemble magic, and Dockerized deployment)
 - M2 Log Analyzer AI (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
