@@ -3,7 +3,7 @@
 10+ years in tech, 530+ competitive programming problems solved, US & EU patent published on Wireless Charging, and countless coffee mugs emptied.  
 Currently coding, optimizing, and occasionally arguing with compilers.  
 
-🌐 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [SoftEng.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [Unix.SE](https://unix.stackexchange.com/users/23069/md-mahbubur-rahman) | [GitHub](https://github.com/m-a-h-b-u-b)
+🌐 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [SoftwareEng.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [Unix.SE](https://unix.stackexchange.com/users/23069/md-mahbubur-rahman) | [GitHub](https://github.com/m-a-h-b-u-b)
 
 ## 🏆 Achievements
 - [Top 1000](https://github.com/m-a-h-b-u-b) in competitive programming 🌍  
@@ -14,19 +14,25 @@ Currently coding, optimizing, and occasionally arguing with compilers.
 --- 
 
 **Open Source Contribution** 
-- SecureIoTOS (Designed and developed a secure tiny Operating System for ARM Cortex-M IoT devices using Rust)
-- M2 Fraud Detection System (Real-time fraud detection platform for financial transactions using ML Isolation Forest)
-- M2 Spam Detector AI (Next-gen scalable AI spam detector with BERT-class transformers, ensemble magic, and Dockerized deployment)
-- M2 Log Analyzer AI (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
+- [SecureIoTOS](https://github.com/m-a-h-b-u-b/SecureIoTOS) (Designed and developed a secure tiny Operating System for ARM Cortex-M IoT devices using Rust)
+- [M2 Fraud Detection System](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) (Real-time fraud detection platform for financial transactions using ML Isolation Forest)
+- [M2 Spam Detector AI](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) (Next-gen scalable AI spam detector with BERT-class transformers, ensemble magic, and Dockerized deployment)
+- [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
 
 ---
 
 ## 🛠️ Toolbox
-- **Languages I speak with fewer typos:** C/C++, Go, Rust, Python, Node.js  
-- **Databases I don’t just SELECT * FROM:** PostgreSQL, MongoDB, Couchbase, Redis  
-- **Buzzwords I actually use in production:** CQRS, Sharding, Caching, Partitioning  
-- **DevOps arsenal:** Docker, Kubernetes, Terraform, GitHub Actions, (coffee optional but recommended ☕)  
-- **AI/ML:** Whisper, CNN, NLU, librosa MFCCs (yes, I love to make computers listen 👂)  
+**Programming:** C/C++, Go (Certified), Rust, Python, Node.js
+**Databases:** PostgreSQL, MySQL, Redis, MongoDB (Certified), Couchbase
+**System Design & Architecture:** REST, GraphQL, Kafka, RabbitMQ, CQRS
+**DevOps:** Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD
+**Cloud AI Services:** AWS SageMaker, GCP Vertex AI, Azure ML
+**AI & Machine Learning:** NLU, Whisper, CNNs, librosa (Audio/MFCCs)
+**MLOps & Model Serving:** FastAPI, TorchServe, TensorFlow Serving
+**Data Pipelines & Streaming:** ETL workflows (Airflow, Prefect), Kafka Streams, Apache Spark, Apache Flink
+**AI-Driven Systems:** TTS pipelines, Large-scale NLP inference
+**Testing:** pytest, cargo test, Jest, Mocha + Chai
+
 
 ---
 
