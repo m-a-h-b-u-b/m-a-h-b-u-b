@@ -1,11 +1,11 @@
 # 👨‍💻 Md Mahbubur Rahman  
 
-10+ years in tech | 530+ competitive programming problems solved | Currently coding, optimizing, and occasionally arguing with compilers.  
+I am simple, nothing special. I love programming, have a tendency to argue with compilers, and With FastAPI + TorchServe, my AI serves predictions faster than a barista serves coffee. I trained models on SageMaker, Vertex AI, and Azure ML—basically, I’m in a polycloud relationship. My pipelines are so smooth, ETL stands for “Extremely Tasty Latte.” use Kafka so much that even my morning coffee comes with a consumer group. 
 
 🌐 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [SoftwareEng.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [Unix.SE](https://unix.stackexchange.com/users/23069/md-mahbubur-rahman) | [GitHub](https://github.com/m-a-h-b-u-b)
 
 ## 🏆 Achievements
-- [Top 1000](https://github.com/m-a-h-b-u-b) in competitive programming 🌍  
+- [Top 1000](https://github.com/m-a-h-b-u-b) in competitive programming 🌍 worldwide (SOLVED 530+ competitive programming problems)
 - [IEEE Best Paper Award](https://ieeexplore.ieee.org/document/7042942) (13.4% reduced error of measured distance)  
 - [Outstanding Contribution Award](https://github.com/m-a-h-b-u-b/r/blob/main/certs/SAMSUNG-connectivity-team-contribution.png) - Samsung Research  
 - [Best Team Lead Award](https://github.com/m-a-h-b-u-b/r/blob/main/certs/Best-TEAM-Lead-RiseUpLabs.png) - Rise Up Labs (For dedication, punctuality & problem solving )
@@ -48,8 +48,3 @@
 - My TODO list has version control (because, of course).  
 - Keyboard shortcuts are my love language ⌨️❤️.  
 
----
-
-## 🤝 Let’s Connect
-Want to collaborate, debate tabs vs spaces, or just swap coding horror stories?  
-📧 mahbub.aaman.app@gmail.com  
