@@ -18,21 +18,6 @@
 - [M2 Spam Detector AI](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) (Next-gen scalable AI spam detector with BERT-class transformers, ensemble magic, and Dockerized deployment)
 - [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
 
-  
-## 🛠️ Toolbox
-
-- **Programming:** 🐍 Python | 🦀 Rust | ☕️ JavaScript/Node.js | ➕ C/C++ | 🐹 Go (Certified)  
-- **Databases:** 🐘 PostgreSQL | 🐬 MySQL | 🍃 MongoDB (Certified) | 🛋️ Couchbase | ⚡ Redis  
-- **System Design & Architecture:** 🔗 REST | 🧩 GraphQL | 📡 Kafka | 📨 RabbitMQ | 🏗️ CQRS  
-- **DevOps:** 🐳 Docker | ☸️ Kubernetes | 🌍 Terraform | 📜 Ansible | ⚙️ GitHub Actions | 🚀 CI/CD  
-- **Cloud AI Services:** ☁️ AWS SageMaker | 🔮 GCP Vertex AI | 💠 Azure ML  
-- **AI & Machine Learning:** 🧠 NLU | 🎙️ Whisper | 🔲 CNNs | 🎵 librosa (Audio/MFCCs)  
-- **MLOps & Model Serving:** ⚡ FastAPI | 🔥 TorchServe | 🔮 TensorFlow Serving  
-- **Data Pipelines & Streaming:** 🔄 ETL workflows (Airflow, Prefect) | 📡 Kafka Streams | ⚡ Apache Spark | 🌊 Apache Flink  
-- **AI-Driven Systems:** 🗣️ TTS pipelines | 📚 Large-scale NLP inference  
-- **Testing:** 🧪 pytest | 🦀 cargo test | ✅ Jest | ☕ Mocha + Chai  
-
-
 ## I Love ❤️ writing Articles  
 - How I Tuned Python to Analyze 1 Million Tweets in Real-Time with Apache Kafka and GPU NLP [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
 - Docker vs. Kubernetes: A Premium Guideline for When to Use Which and Misconceptions [Link](https://medium.com/@md-mahbubur-rahman/docker-vs-kubernetes-a-premium-guideline-for-when-to-use-which-and-misconceptions-73472be075ac)  
@@ -42,6 +27,18 @@
 - Diving Deep into Python Data Structures: Lists, Sets, Dicts, Queues — Differences, Benchmarks, and Misconceptions [Link](https://medium.com/@md-mahbubur-rahman/advanced-python-data-structures-lists-sets-dicts-queues-when-to-use-what-differences-eaee0445b2e1)
 
 
+## 🛠️ Toolbox
+
+- **Programming:** Python |  Rust | ☕️ JavaScript/Node.js | ➕ C/C++ | Go (Certified)  
+- **Databases:**  PostgreSQL |  MySQL | 🍃 MongoDB (Certified) | 🛋️ Couchbase | ⚡ Redis  
+- **System Design & Architecture:** 🔗 REST | 🧩 GraphQL | 📡 Kafka | 📨 RabbitMQ | 🏗️ CQRS  
+- **DevOps:** 🐳 Docker | ☸️ Kubernetes | 🌍 Terraform | 📜 Ansible | ⚙️ GitHub Actions | 🚀 CI/CD  
+- **Cloud AI Services:** ☁️ AWS SageMaker | 🔮 GCP Vertex AI | 💠 Azure ML  
+- **AI & Machine Learning:** 🧠 NLU | 🎙️ Whisper | 🔲 CNNs | 🎵 librosa (Audio/MFCCs)  
+- **MLOps & Model Serving:** ⚡ FastAPI | 🔥 TorchServe | 🔮 TensorFlow Serving  
+- **Data Pipelines & Streaming:** 🔄 ETL workflows (Airflow, Prefect) | 📡 Kafka Streams | ⚡ Apache Spark | 🌊 Apache Flink  
+- **AI-Driven Systems:** 🗣️ TTS pipelines | 📚 Large-scale NLP inference  
+- **Testing:** 🧪 pytest | cargo test | ✅ Jest | ☕ Mocha + Chai  
 
 ## ⚡ Fun Facts
 - My code compiles 87% of the time on the first try.  
