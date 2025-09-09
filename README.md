@@ -21,17 +21,18 @@ Currently coding, optimizing, and occasionally arguing with compilers.
 
 ---
 
-## 🛠️ Toolbox
-**Programming:** C/C++, Go (Certified), Rust, Python, Node.js
-**Databases:** PostgreSQL, MySQL, Redis, MongoDB (Certified), Couchbase
-**System Design & Architecture:** REST, GraphQL, Kafka, RabbitMQ, CQRS
-**DevOps:** Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD
-**Cloud AI Services:** AWS SageMaker, GCP Vertex AI, Azure ML
-**AI & Machine Learning:** NLU, Whisper, CNNs, librosa (Audio/MFCCs)
-**MLOps & Model Serving:** FastAPI, TorchServe, TensorFlow Serving
-**Data Pipelines & Streaming:** ETL workflows (Airflow, Prefect), Kafka Streams, Apache Spark, Apache Flink
-**AI-Driven Systems:** TTS pipelines, Large-scale NLP inference
-**Testing:** pytest, cargo test, Jest, Mocha + Chai
+## 🛠️ Toolbox  
+
+**Programming:** C/C++, Go (Certified), Rust, Python, Node.js  
+**Databases:** PostgreSQL, MySQL, Redis, MongoDB (Certified), Couchbase  
+**System Design & Architecture:** REST, GraphQL, Kafka, RabbitMQ, CQRS  
+**DevOps:** Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD  
+**Cloud AI Services:** AWS SageMaker, GCP Vertex AI, Azure ML  
+**AI & Machine Learning:** NLU, Whisper, CNNs, librosa (Audio/MFCCs)  
+**MLOps & Model Serving:** FastAPI, TorchServe, TensorFlow Serving  
+**Data Pipelines & Streaming:** ETL workflows (Airflow, Prefect), Kafka Streams, Apache Spark, Apache Flink  
+**AI-Driven Systems:** TTS pipelines, Large-scale NLP inference  
+**Testing:** pytest, cargo test, Jest, Mocha + Chai  
 
 
 ---
