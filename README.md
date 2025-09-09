@@ -1,6 +1,6 @@
 # 👨‍💻 Md Mahbubur Rahman  
 
-I am simple, nothing special. I love programming, have a tendency to argue with compilers, and With FastAPI + TorchServe, my AI serves predictions faster than a barista serves coffee. I trained models on SageMaker, Vertex AI, and Azure ML—basically, I’m in a polycloud relationship. My pipelines are so smooth, ETL stands for “Extremely Tasty Latte.” use Kafka so much that even my morning coffee comes with a consumer group. 
+I am simple, nothing special. I love programming, have a tendency to argue with compilers, and With FastAPI + TorchServe, my AI serves predictions faster than a barista serves coffee. I trained models on SageMaker, Vertex AI, and Azure ML—basically, I’m in a polycloud relationship. My pipelines are so smooth, ETL stands for “Extremely Tasty Latte”. I use Kafka so much that even my morning coffee comes with a consumer group. 
 
 🌐 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [SoftwareEng.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [Unix.SE](https://unix.stackexchange.com/users/23069/md-mahbubur-rahman) | [GitHub](https://github.com/m-a-h-b-u-b)
 
