@@ -5,7 +5,7 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 🌐 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [SoftwareEng.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [Unix.SE](https://unix.stackexchange.com/users/23069/md-mahbubur-rahman) | [GitHub](https://github.com/m-a-h-b-u-b)
 
 ## 🏆 Achievements
-- [Top 1000](https://github.com/m-a-h-b-u-b) in competitive programming 🌍 worldwide (SOLVED 530+ competitive programming problems)
+- [Top 1000](https://uhunt.onlinejudge.org/id/33572) in competitive programming 🌍 worldwide (SOLVED 530+ competitive programming problems at UVa)
 - [IEEE Best Paper Award](https://ieeexplore.ieee.org/document/7042942) (13.4% reduced error of measured distance)  
 - [Outstanding Contribution Award](https://github.com/m-a-h-b-u-b/r/blob/main/certs/SAMSUNG-connectivity-team-contribution.png) - Samsung Research  
 - [Best Team Lead Award](https://github.com/m-a-h-b-u-b/r/blob/main/certs/Best-TEAM-Lead-RiseUpLabs.png) - Rise Up Labs (For dedication, punctuality & problem solving )
