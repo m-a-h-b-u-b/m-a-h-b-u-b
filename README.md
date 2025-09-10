@@ -34,14 +34,13 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 - **System Design & Architecture:**  REST |  GraphQL | gRPC |  Kafka |  RabbitMQ |  CQRS  
 - **DevOps:**  Docker |  Kubernetes |  Terraform |  Ansible |  GitHub Actions |  CI/CD  
 - **Cloud AI Services:**  AWS SageMaker | GCP Vertex AI | Azure ML  
-- **AI & Machine Learning:**  NLU | 🎙 Whisper | CNNs | librosa (Audio/MFCCs)  
+- **AI & Machine Learning:**  NLU | Whisper | CNNs | librosa (Audio/MFCCs)  
 - **MLOps & Model Serving:**  FastAPI |  TorchServe |  TensorFlow Serving  
 - **Data Pipelines & Streaming:** ETL workflows (Airflow, Prefect) |  Kafka Streams |  Apache Spark |  Apache Flink  
 - **AI-Driven Systems:** TTS pipelines | Large-scale NLP inference  
 - **Testing:**  pytest | cargo test | Jest | Mocha + Chai  
 
 ## ⚡ Fun Facts
-- My code compiles 87% of the time on the first try.  
 - I talk to databases more than humans.
 - I once fixed a bug faster than the build process finished.  
 - Dark mode isn’t a preference—it’s a lifestyle 🌑.  
