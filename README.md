@@ -19,12 +19,13 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 - [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
 
 ## I Love ❤️ writing Articles  
-- How I Tuned Python to Analyze 1 Million Tweets in Real-Time with Apache Kafka and GPU NLP [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
-- Docker vs. Kubernetes: A Premium Guideline for When to Use Which and Misconceptions [Link](https://medium.com/@md-mahbubur-rahman/docker-vs-kubernetes-a-premium-guideline-for-when-to-use-which-and-misconceptions-73472be075ac)  
-- gRPC vs WebSockets: When to Use Which (Performance, Use Cases, Usability, and Feature Scope) [Link](https://medium.com/@md-mahbubur-rahman/grpc-vs-websockets-when-to-use-which-performance-use-cases-usability-and-feature-scope-6c52482fb2ae)
-- OLTP vs OLAP vs HTAP: Performance, Use Cases, Usability, and Feature Scope from an Application Perspective [Link](https://medium.com/@md-mahbubur-rahman/oltp-vs-olap-vs-htap-performance-use-cases-usability-and-feature-scope-from-an-application-c47f106c63e1)
-- Python Concurrency Explained: Threading vs Multiprocessing vs Asyncio — A Deep Technical Guide [Link](https://medium.com/@md-mahbubur-rahman/python-concurrency-explained-threading-vs-multiprocessing-vs-asyncio-a-deep-technical-guide-710147565850)
-- Diving Deep into Python Data Structures: Lists, Sets, Dicts, Queues — Differences, Benchmarks, and Misconceptions [Link](https://medium.com/@md-mahbubur-rahman/advanced-python-data-structures-lists-sets-dicts-queues-when-to-use-what-differences-eaee0445b2e1)
+- How I Tuned **Python to Analyze 1 Million Tweets** in Real-Time with **Apache Kafka and GPU NLP** [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
+- **Docker vs. Kubernetes**: A Premium Guideline for **When to Use Which and Misconceptions** [Link](https://medium.com/@md-mahbubur-rahman/docker-vs-kubernetes-a-premium-guideline-for-when-to-use-which-and-misconceptions-73472be075ac)  
+- **gRPC vs WebSockets**: When to Use Which (Performance, Use Cases, Usability, and Feature Scope) [Link](https://medium.com/@md-mahbubur-rahman/grpc-vs-websockets-when-to-use-which-performance-use-cases-usability-and-feature-scope-6c52482fb2ae)
+- **OLTP vs OLAP vs HTAP**: Performance, Use Cases, Usability, and Feature Scope from an Application Perspective [Link](https://medium.com/@md-mahbubur-rahman/oltp-vs-olap-vs-htap-performance-use-cases-usability-and-feature-scope-from-an-application-c47f106c63e1)
+- **Python Concurrency Explained: Threading vs Multiprocessing vs Asyncio** — A Deep Technical Guide [Link](https://medium.com/@md-mahbubur-rahman/python-concurrency-explained-threading-vs-multiprocessing-vs-asyncio-a-deep-technical-guide-710147565850)
+- Diving Deep into Python Data Structures: **Lists, Sets, Dicts, Queues — Differences, Benchmarks, and Misconceptions** [Link](https://medium.com/@md-mahbubur-rahman/advanced-python-data-structures-lists-sets-dicts-queues-when-to-use-what-differences-eaee0445b2e1)
+- **Qualities Every Expert Backend Engineer Must Have**: The Complete Guide [Link](https://medium.com/@md-mahbubur-rahman/qualities-every-expert-backend-engineer-must-have-the-complete-guide-65d07031851b)
 
 
 ## 🛠️ Toolbox
