@@ -20,6 +20,7 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 
 ## I Love ❤️ writing Articles  
 - How I Tuned **Python to Analyze 1 Million Tweets** in Real-Time with **Apache Kafka and GPU NLP** [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
+- **10 Kafka Mistakes Python Developers Make** (and How to Avoid Them Like a Pro) [Link](https://dev.to/m-a-h-b-u-b/10-kafka-mistakes-python-developers-make-and-how-to-avoid-them-like-a-pro-55cl)
 - **Docker vs. Kubernetes**: A Premium Guideline for **When to Use Which and Misconceptions** [Link](https://medium.com/@md-mahbubur-rahman/docker-vs-kubernetes-a-premium-guideline-for-when-to-use-which-and-misconceptions-73472be075ac)  
 - **gRPC vs WebSockets**: When to Use Which (Performance, Use Cases, Usability, and Feature Scope) [Link](https://medium.com/@md-mahbubur-rahman/grpc-vs-websockets-when-to-use-which-performance-use-cases-usability-and-feature-scope-6c52482fb2ae)
 - **OLTP vs OLAP vs HTAP**: Performance, Use Cases, Usability, and Feature Scope from an Application Perspective [Link](https://medium.com/@md-mahbubur-rahman/oltp-vs-olap-vs-htap-performance-use-cases-usability-and-feature-scope-from-an-application-c47f106c63e1)
@@ -27,6 +28,15 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 - Diving Deep into Python Data Structures: **Lists, Sets, Dicts, Queues — Differences, Benchmarks, and Misconceptions** [Link](https://medium.com/@md-mahbubur-rahman/advanced-python-data-structures-lists-sets-dicts-queues-when-to-use-what-differences-eaee0445b2e1)
 - **Qualities Every Expert Backend Engineer Must Have**: The Complete Guide [Link](https://medium.com/@md-mahbubur-rahman/qualities-every-expert-backend-engineer-must-have-the-complete-guide-65d07031851b)
 
+## I enjoy to share knowledge with Engineers 
+- Why Was **Python Written with the GIL**? [Link](https://softwareengineering.stackexchange.com/questions/186889/why-was-python-written-with-the-gil/186909#186909)
+- How is **Linux kernel live debugging** done and what tools are used? [Link](https://stackoverflow.com/questions/4943857/how-is-linux-kernel-live-debugging-done-and-what-tools-are-used/28809600#28809600)
+- Is **GCC dying without threads support on Windows**? [Link](https://softwareengineering.stackexchange.com/questions/195639/is-gcc-dying-without-threads-support-on-windows/195731#195731)
+- **Good Practices of writing release note**s [Link](https://softwareengineering.stackexchange.com/questions/167578/good-practices-of-writing-release-notes/167579#167579)
+- **Steps** to maintain a **good bug database** [Link](https://softwareengineering.stackexchange.com/questions/167726/steps-to-maintain-a-good-bug-database/167728#167728)
+- How to check whether the **process of download image is completed or not**? [Link](https://stackoverflow.com/questions/13965294/how-to-check-whether-the-process-of-download-image-is-completed-or-not/13965460#13965460)
+- Why do **we move the world instead of the camera**? [Link](https://gamedev.stackexchange.com/questions/40741/why-do-we-move-the-world-instead-of-the-camera/40746#40746)
+- 
 
 ## 🛠️ Toolbox
 
