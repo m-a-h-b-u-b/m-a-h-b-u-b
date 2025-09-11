@@ -28,15 +28,14 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 - Diving Deep into Python Data Structures: **Lists, Sets, Dicts, Queues — Differences, Benchmarks, and Misconceptions** [Link](https://medium.com/@md-mahbubur-rahman/advanced-python-data-structures-lists-sets-dicts-queues-when-to-use-what-differences-eaee0445b2e1)
 - **Qualities Every Expert Backend Engineer Must Have**: The Complete Guide [Link](https://medium.com/@md-mahbubur-rahman/qualities-every-expert-backend-engineer-must-have-the-complete-guide-65d07031851b)
 
-## I enjoy to share knowledge with Engineers 
+## Passionate About Sharing Knowledge with Engineers 💡 
 - Why Was **Python Written with the GIL**? [Link](https://softwareengineering.stackexchange.com/questions/186889/why-was-python-written-with-the-gil/186909#186909)
 - How is **Linux kernel live debugging** done and what tools are used? [Link](https://stackoverflow.com/questions/4943857/how-is-linux-kernel-live-debugging-done-and-what-tools-are-used/28809600#28809600)
-- Is **GCC dying without threads support on Windows**? [Link](https://softwareengineering.stackexchange.com/questions/195639/is-gcc-dying-without-threads-support-on-windows/195731#195731)
-- **Good Practices of writing release note**s [Link](https://softwareengineering.stackexchange.com/questions/167578/good-practices-of-writing-release-notes/167579#167579)
+- **Is GCC dying without threads support** on Windows? [Link](https://softwareengineering.stackexchange.com/questions/195639/is-gcc-dying-without-threads-support-on-windows/195731#195731)
+- Good Practices of **writing release notes** [Link](https://softwareengineering.stackexchange.com/questions/167578/good-practices-of-writing-release-notes/167579#167579)
 - **Steps** to maintain a **good bug database** [Link](https://softwareengineering.stackexchange.com/questions/167726/steps-to-maintain-a-good-bug-database/167728#167728)
-- How to check whether the **process of download image is completed or not**? [Link](https://stackoverflow.com/questions/13965294/how-to-check-whether-the-process-of-download-image-is-completed-or-not/13965460#13965460)
+- How to check whether the process of download image is completed or not? [Link](https://stackoverflow.com/questions/13965294/how-to-check-whether-the-process-of-download-image-is-completed-or-not/13965460#13965460)
 - Why do **we move the world instead of the camera**? [Link](https://gamedev.stackexchange.com/questions/40741/why-do-we-move-the-world-instead-of-the-camera/40746#40746)
-- 
 
 ## 🛠️ Toolbox
 
