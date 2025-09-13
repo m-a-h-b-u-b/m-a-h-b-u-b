@@ -13,6 +13,7 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 
 ## I Love ❤️ writing Articles  
 - How I Tuned **Python to Analyze 1 Million Tweets** in Real-Time with **Apache Kafka and GPU NLP** [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
+- **Timing Attacks and Their Remedies** — an in-depth guide [Link](https://dev.to/m-a-h-b-u-b/timing-attacks-and-their-remedies-an-in-depth-guide-2j4)
 - **10 Kafka Mistakes Python Developers Make** (and How to Avoid Them Like a Pro) [Link](https://dev.to/m-a-h-b-u-b/10-kafka-mistakes-python-developers-make-and-how-to-avoid-them-like-a-pro-55cl)
 - **Docker vs. Kubernetes**: A Premium Guideline for **When to Use Which and Misconceptions** [Link](https://medium.com/@md-mahbubur-rahman/docker-vs-kubernetes-a-premium-guideline-for-when-to-use-which-and-misconceptions-73472be075ac)  
 - **gRPC vs WebSockets**: When to Use Which (Performance, Use Cases, Usability, and Feature Scope) [Link](https://medium.com/@md-mahbubur-rahman/grpc-vs-websockets-when-to-use-which-performance-use-cases-usability-and-feature-scope-6c52482fb2ae)
