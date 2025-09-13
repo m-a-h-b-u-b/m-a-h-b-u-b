@@ -22,7 +22,7 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 - Diving Deep into Python Data Structures: **Lists, Sets, Dicts, Queues — Differences, Benchmarks, and Misconceptions** [Link](https://medium.com/@md-mahbubur-rahman/advanced-python-data-structures-lists-sets-dicts-queues-when-to-use-what-differences-eaee0445b2e1)
 - **Qualities Every Expert Backend Engineer Must Have**: The Complete Guide [Link](https://medium.com/@md-mahbubur-rahman/qualities-every-expert-backend-engineer-must-have-the-complete-guide-65d07031851b)
 
-## Passionate About Sharing Knowledge with Engineers 💡 
+## Passionate About Answering Questions of Engineers 💡 
 - Why Was **Python Written with the GIL**? [Link](https://softwareengineering.stackexchange.com/questions/186889/why-was-python-written-with-the-gil/186909#186909)
 - How is **Linux kernel live debugging** done and what tools are used? [Link](https://stackoverflow.com/questions/4943857/how-is-linux-kernel-live-debugging-done-and-what-tools-are-used/28809600#28809600)
 - **Is GCC dying without threads support** on Windows? [Link](https://softwareengineering.stackexchange.com/questions/195639/is-gcc-dying-without-threads-support-on-windows/195731#195731)
