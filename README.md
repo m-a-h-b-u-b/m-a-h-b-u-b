@@ -7,11 +7,13 @@ I am simple, nothing special. I love programming, have a tendency to argue with 
 
 ## Open Source Contribution 
 - [SecureIoTOS](https://github.com/m-a-h-b-u-b/SecureIoTOS) (Designed and developed a secure tiny Operating System for ARM Cortex-M IoT devices using Rust)
+- [M2-Bootloader-Rust](https://github.com/m-a-h-b-u-b/M2-Bootloader-Rust) Secure Bootloader for IoT devices using Rust programming langauage 
 - [M2 Fraud Detection System](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) (Real-time fraud detection platform for financial transactions using ML Isolation Forest)
 - [M2 Spam Detector AI](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) (Next-gen scalable AI spam detector with BERT-class transformers, ensemble magic, and Dockerized deployment)
 - [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
 
-## I Love ❤️ writing Articles  
+## I Love ❤️ writing Articles 
+- **Why Learning Rust is Essential**: Insights from a **Software Engineer with 10+ Years Experience**  [Link](https://dev.to/m-a-h-b-u-b/why-learning-rust-is-essential-insights-from-a-software-engineer-with-10-years-experience-16fg) 
 - How I Tuned **Python to Analyze 1 Million Tweets** in Real-Time with **Apache Kafka and GPU NLP** [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
 - **Timing Attacks and Their Remedies** — an in-depth guide [Link](https://dev.to/m-a-h-b-u-b/timing-attacks-and-their-remedies-an-in-depth-guide-2j4)
 - **10 Kafka Mistakes Python Developers Make** (and How to Avoid Them Like a Pro) [Link](https://dev.to/m-a-h-b-u-b/10-kafka-mistakes-python-developers-make-and-how-to-avoid-them-like-a-pro-55cl)
