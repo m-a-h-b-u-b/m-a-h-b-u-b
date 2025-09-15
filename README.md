@@ -13,6 +13,7 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 - [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
 
 ## I Love ❤️ writing Articles 
+- **How AI Will Transform Software Engineering Jobs by 2030**: Insights from a Software Engineer with 10+ Years of Experience [Link](https://dev.to/m-a-h-b-u-b/how-ai-will-transform-software-engineering-jobs-by-2030-insights-from-a-software-engineer-with-10-2jh2)
 - **Why Learning Rust is Essential**: Insights from a **Software Engineer with 10+ Years Experience**  [Link](https://dev.to/m-a-h-b-u-b/why-learning-rust-is-essential-insights-from-a-software-engineer-with-10-years-experience-16fg) 
 - How I Tuned **Python to Analyze 1 Million Tweets** in Real-Time with **Apache Kafka and GPU NLP** [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
 - **Timing Attacks and Their Remedies** — an in-depth guide [Link](https://dev.to/m-a-h-b-u-b/timing-attacks-and-their-remedies-an-in-depth-guide-2j4)
