@@ -19,12 +19,6 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 - How I Tuned **Python to Analyze 1 Million Tweets** in Real-Time with **Apache Kafka and GPU NLP** [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
 - **Timing Attacks and Their Remedies** — an in-depth guide [Link](https://dev.to/m-a-h-b-u-b/timing-attacks-and-their-remedies-an-in-depth-guide-2j4)
 - **10 Kafka Mistakes Python Developers Make** (and How to Avoid Them Like a Pro) [Link](https://dev.to/m-a-h-b-u-b/10-kafka-mistakes-python-developers-make-and-how-to-avoid-them-like-a-pro-55cl)
-- **Docker vs. Kubernetes**: A Premium Guideline for **When to Use Which and Misconceptions** [Link](https://medium.com/@md-mahbubur-rahman/docker-vs-kubernetes-a-premium-guideline-for-when-to-use-which-and-misconceptions-73472be075ac)  
-- **gRPC vs WebSockets**: When to Use Which (Performance, Use Cases, Usability, and Feature Scope) [Link](https://medium.com/@md-mahbubur-rahman/grpc-vs-websockets-when-to-use-which-performance-use-cases-usability-and-feature-scope-6c52482fb2ae)
-- **OLTP vs OLAP vs HTAP**: Performance, Use Cases, Usability, and Feature Scope from an Application Perspective [Link](https://medium.com/@md-mahbubur-rahman/oltp-vs-olap-vs-htap-performance-use-cases-usability-and-feature-scope-from-an-application-c47f106c63e1)
-- **Python Concurrency Explained: Threading vs Multiprocessing vs Asyncio** — A Deep Technical Guide [Link](https://medium.com/@md-mahbubur-rahman/python-concurrency-explained-threading-vs-multiprocessing-vs-asyncio-a-deep-technical-guide-710147565850)
-- Diving Deep into Python Data Structures: **Lists, Sets, Dicts, Queues — Differences, Benchmarks, and Misconceptions** [Link](https://medium.com/@md-mahbubur-rahman/advanced-python-data-structures-lists-sets-dicts-queues-when-to-use-what-differences-eaee0445b2e1)
-- **Qualities Every Expert Backend Engineer Must Have**: The Complete Guide [Link](https://medium.com/@md-mahbubur-rahman/qualities-every-expert-backend-engineer-must-have-the-complete-guide-65d07031851b)
 
 ## Passionate About Answering Questions of Engineers 💡 
 - Why Was **Python Written with the GIL**? [Link](https://softwareengineering.stackexchange.com/questions/186889/why-was-python-written-with-the-gil/186909#186909)
