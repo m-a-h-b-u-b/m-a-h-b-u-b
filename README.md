@@ -24,7 +24,6 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 
 ## Passionate About Answering Questions of Engineers 💡 
 - Why Was **Python Written with the GIL**? [Link](https://softwareengineering.stackexchange.com/questions/186889/why-was-python-written-with-the-gil/186909#186909)
-- How is **Linux kernel live debugging** done and what tools are used? [Link](https://stackoverflow.com/questions/4943857/how-is-linux-kernel-live-debugging-done-and-what-tools-are-used/28809600#28809600)
 - **Is GCC dying without threads support** on Windows? [Link](https://softwareengineering.stackexchange.com/questions/195639/is-gcc-dying-without-threads-support-on-windows/195731#195731)
 - Good Practices of **writing release notes** [Link](https://softwareengineering.stackexchange.com/questions/167578/good-practices-of-writing-release-notes/167579#167579)
 - **Steps** to maintain a **good bug database** [Link](https://softwareengineering.stackexchange.com/questions/167726/steps-to-maintain-a-good-bug-database/167728#167728)
