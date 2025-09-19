@@ -13,6 +13,7 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 - [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
 
 ## I Love ❤️ writing Articles 
+- **Is Node.js Dying?** Why **Deno** and **Bun** **Could Take Over Faster** Than You Think [Link](https://dev.to/m-a-h-b-u-b/is-nodejs-dying-why-deno-and-bun-could-take-over-faster-than-you-think-3mp)
 - The **Ultimate Rust vs C/C++ Battle: Real-World Lessons from Industry Experts** [Link](https://dev.to/m-a-h-b-u-b/the-ultimate-rust-vs-cc-battle-real-world-lessons-from-industry-experts-4pf4)
 - **Docker vs. Kubernetes: Research-Backed Insights & Expert Analysis** [Link](https://dev.to/m-a-h-b-u-b/docker-vs-kubernetes-research-backed-insights-expert-analysis-fjd)
 - **How AI Will Transform Software Engineering Jobs by 2030**: Insights from a Software Engineer with 10+ Years of Experience [Link](https://dev.to/m-a-h-b-u-b/how-ai-will-transform-software-engineering-jobs-by-2030-insights-from-a-software-engineer-with-10-2jh2)
