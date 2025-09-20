@@ -33,7 +33,7 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 
 ## 🛠️ Toolbox
 
-- **Programming:** Python |  Rust | JavaScript/Node.js |  C/C++ | Go (Certified)  
+- **Programming:** Python |  Rust | Node.js |  C/C++ | Go (Certified)  
 - **Databases:**  PostgreSQL |  MySQL |  MongoDB (Certified) |  Couchbase |  Redis  
 - **System Design & Architecture:**  REST |  GraphQL | gRPC |  Kafka |  RabbitMQ |  CQRS  
 - **DevOps:**  Docker |  Kubernetes |  Terraform |  Ansible |  GitHub Actions |  CI/CD  
