@@ -13,11 +13,12 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 - [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
 
 ## I Love ❤️ writing Articles 
-- **Is Node.js Dying?** Why **Deno** and **Bun** **Could Take Over Faster** Than You Think [Link](https://dev.to/m-a-h-b-u-b/is-nodejs-dying-why-deno-and-bun-could-take-over-faster-than-you-think-3mp)
+- **Why Node.js Keeps Winning**: The Backend Beast **Everyone Loves to Hire** [Link] https://dev.to/m-a-h-b-u-b/why-nodejs-keeps-winning-the-backend-beast-everyone-loves-to-hire-3cip
+- - Wanna **Switch from Backend Dev to AI/ML Engineer?** A Research-Backed, Practical Guide [link](https://dev.to/m-a-h-b-u-b/wanna-switch-from-backend-dev-to-aiml-engineer-a-research-backed-practical-guide-2pnh)
 - The **Ultimate Rust vs C/C++ Battle: Real-World Lessons from Industry Experts** [Link](https://dev.to/m-a-h-b-u-b/the-ultimate-rust-vs-cc-battle-real-world-lessons-from-industry-experts-4pf4)
 - **Docker vs. Kubernetes: Research-Backed Insights & Expert Analysis** [Link](https://dev.to/m-a-h-b-u-b/docker-vs-kubernetes-research-backed-insights-expert-analysis-fjd)
 - **How AI Will Transform Software Engineering Jobs by 2030**: Insights from a Software Engineer with 10+ Years of Experience [Link](https://dev.to/m-a-h-b-u-b/how-ai-will-transform-software-engineering-jobs-by-2030-insights-from-a-software-engineer-with-10-2jh2)
-- Wanna **Switch from Backend Dev to AI/ML Engineer?** A Research-Backed, Practical Guide [link](https://dev.to/m-a-h-b-u-b/wanna-switch-from-backend-dev-to-aiml-engineer-a-research-backed-practical-guide-2pnh)
+- **Is Node.js Dying?** Why **Deno** and **Bun** **Could Take Over Faster** Than You Think [Link](https://dev.to/m-a-h-b-u-b/is-nodejs-dying-why-deno-and-bun-could-take-over-faster-than-you-think-3mp)
 - **Why Learning Rust is Essential**: Insights from a **Software Engineer with 10+ Years Experience**  [Link](https://dev.to/m-a-h-b-u-b/why-learning-rust-is-essential-insights-from-a-software-engineer-with-10-years-experience-16fg) 
 - How I Tuned **Python to Analyze 1 Million Tweets** in Real-Time with **Apache Kafka and GPU NLP** [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
 - **Timing Attacks and Their Remedies** — an in-depth guide [Link](https://dev.to/m-a-h-b-u-b/timing-attacks-and-their-remedies-an-in-depth-guide-2j4)
