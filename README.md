@@ -14,7 +14,7 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 
 ## I Love ❤️ writing Articles 
 - **Why Node.js Keeps Winning**: The Backend Beast **Everyone Loves to Hire** [Link](https://dev.to/m-a-h-b-u-b/why-nodejs-keeps-winning-the-backend-beast-everyone-loves-to-hire-3cip)
-- - Wanna **Switch from Backend Dev to AI/ML Engineer?** A Research-Backed, Practical Guide [link](https://dev.to/m-a-h-b-u-b/wanna-switch-from-backend-dev-to-aiml-engineer-a-research-backed-practical-guide-2pnh)
+- Wanna **Switch from Backend Dev to AI/ML Engineer?** A Research-Backed, Practical Guide [link](https://dev.to/m-a-h-b-u-b/wanna-switch-from-backend-dev-to-aiml-engineer-a-research-backed-practical-guide-2pnh)
 - The **Ultimate Rust vs C/C++ Battle: Real-World Lessons from Industry Experts** [Link](https://dev.to/m-a-h-b-u-b/the-ultimate-rust-vs-cc-battle-real-world-lessons-from-industry-experts-4pf4)
 - **Docker vs. Kubernetes: Research-Backed Insights & Expert Analysis** [Link](https://dev.to/m-a-h-b-u-b/docker-vs-kubernetes-research-backed-insights-expert-analysis-fjd)
 - **How AI Will Transform Software Engineering Jobs by 2030**: Insights from a Software Engineer with 10+ Years of Experience [Link](https://dev.to/m-a-h-b-u-b/how-ai-will-transform-software-engineering-jobs-by-2030-insights-from-a-software-engineer-with-10-2jh2)
