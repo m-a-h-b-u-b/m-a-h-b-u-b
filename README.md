@@ -5,14 +5,15 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 🌐 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [SoftwareEng.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [Unix.SE](https://unix.stackexchange.com/users/23069/md-mahbubur-rahman) | [GitHub](https://github.com/m-a-h-b-u-b)
 
 
-## Open Source Contribution 
+## Open Source Contribution  
 - [SecureIoTOS](https://github.com/m-a-h-b-u-b/SecureIoTOS) (Designed and developed a Secure Operating System for ARM Cortex-M IoT devices using Rust)
 - [M2-Bootloader-Rust](https://github.com/m-a-h-b-u-b/M2-Bootloader-Rust) (Secure Bootloader for IoT devices using Rust programming langauage) 
 - [M2 Fraud Detection System](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) (Real-time fraud detection platform for financial transactions using ML Isolation Forest)
 - [M2 Spam Detector AI](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) (Next-gen scalable AI spam detector with BERT-class transformers, ensemble magic, and Dockerized deployment)
 - [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
 
-## I Love ❤️ writing Articles 
+## I Love ❤️ writing Articles
+- Developing **High-Performance Network Applications** in **Go**: A Case Study of Real-Time Data Streaming [Link](https://dev.to/m-a-h-b-u-b/developing-high-performance-network-applications-in-go-a-case-study-of-real-time-data-streaming-2b77) 
 - **Why Node.js Keeps Winning**: The Backend Beast **Everyone Loves to Hire** [Link](https://dev.to/m-a-h-b-u-b/why-nodejs-keeps-winning-the-backend-beast-everyone-loves-to-hire-3cip)
 - Wanna **Switch from Backend Dev to AI/ML Engineer?** A Research-Backed, Practical Guide [link](https://dev.to/m-a-h-b-u-b/wanna-switch-from-backend-dev-to-aiml-engineer-a-research-backed-practical-guide-2pnh)
 - The **Ultimate Rust vs C/C++ Battle: Real-World Lessons from Industry Experts** [Link](https://dev.to/m-a-h-b-u-b/the-ultimate-rust-vs-cc-battle-real-world-lessons-from-industry-experts-4pf4)
