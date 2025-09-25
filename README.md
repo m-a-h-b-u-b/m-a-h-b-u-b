@@ -13,6 +13,8 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 - [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
 
 ## I Love ❤️ writing Articles
+- High-Performance App Development: Why Top Engineers Skip PHP for Modern Stacks [Link](https://dev.to/m-a-h-b-u-b/high-performance-app-development-why-top-engineers-skip-php-for-modern-stacks-259a)
+- REST vs GraphQL: Side-by-Side Analysis with Real-World Examples & Proven Best Practices [Link](https://dev.to/m-a-h-b-u-b/rest-vs-graphql-side-by-side-analysis-with-real-world-examples-proven-best-practices-47i3)
 - Developing **High-Performance Network Applications** in **Go**: A Case Study of Real-Time Data Streaming [Link](https://dev.to/m-a-h-b-u-b/developing-high-performance-network-applications-in-go-a-case-study-of-real-time-data-streaming-2b77) 
 - **Why Node.js Keeps Winning**: The Backend Beast **Everyone Loves to Hire** [Link](https://dev.to/m-a-h-b-u-b/why-nodejs-keeps-winning-the-backend-beast-everyone-loves-to-hire-3cip)
 - Wanna **Switch from Backend Dev to AI/ML Engineer?** A Research-Backed, Practical Guide [link](https://dev.to/m-a-h-b-u-b/wanna-switch-from-backend-dev-to-aiml-engineer-a-research-backed-practical-guide-2pnh)
