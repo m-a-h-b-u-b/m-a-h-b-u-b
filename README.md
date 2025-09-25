@@ -6,11 +6,9 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 
 
 ## Open Source Contribution  
-- [SecureIoTOS](https://github.com/m-a-h-b-u-b/SecureIoTOS) (Designed and developed a Secure Operating System for ARM Cortex-M IoT devices using Rust)
-- [M2-Bootloader-Rust](https://github.com/m-a-h-b-u-b/M2-Bootloader-Rust) (Secure Bootloader for IoT devices using Rust programming langauage) 
-- [M2 Fraud Detection System](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) (Real-time fraud detection platform for financial transactions using ML Isolation Forest)
-- [M2 Spam Detector AI](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) (Next-gen scalable AI spam detector with BERT-class transformers, ensemble magic, and Dockerized deployment)
-- [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) (Lightweight, AI-powered log analysis system built in Go, designed for real-time ingestion, stream processing, anomaly detection, alerting, and analytics) 
+- Systems Programming { [SecureIoTOS](https://github.com/m-a-h-b-u-b/SecureIoTOS) | [M2-Bootloader-Rust](https://github.com/m-a-h-b-u-b/M2-Bootloader-Rust) } 
+- AI/ML { [M2 Fraud Detection System](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) | [M2 Spam Detector AI](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) | [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) | [M2ChatAI](https://github.com/m-a-h-b-u-b/M2ChatAI) }
+-  
 
 ## I Love ❤️ writing Articles
 - High-Performance App Development: **Why Top Engineers Skip PHP** for Modern Stacks [Link](https://dev.to/m-a-h-b-u-b/high-performance-app-development-why-top-engineers-skip-php-for-modern-stacks-259a)
