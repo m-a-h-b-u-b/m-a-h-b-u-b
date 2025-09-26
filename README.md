@@ -10,6 +10,7 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 - AI/ML { [M2 Fraud Detection AI](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) | [M2 Spam Detector AI](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) | [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) | [M2ChatAI](https://github.com/m-a-h-b-u-b/M2ChatAI) }
 
 ## I Love ❤️ writing Articles
+- Why eFuses Matter in Firmware Security: Permanent Storage, Anti-Rollback, and Device Identity [Link](https://dev.to/m-a-h-b-u-b/why-efuses-matter-in-firmware-security-permanent-storage-anti-rollback-and-device-identity-4fon)
 - High-Performance App Development: **Why Top Engineers Skip PHP** for Modern Stacks [Link](https://dev.to/m-a-h-b-u-b/high-performance-app-development-why-top-engineers-skip-php-for-modern-stacks-259a)
 - **REST vs GraphQL: Side-by-Side Analysis with Real-World Examples** & Proven Best Practices [Link](https://dev.to/m-a-h-b-u-b/rest-vs-graphql-side-by-side-analysis-with-real-world-examples-proven-best-practices-47i3)
 - Developing **High-Performance Network Applications** in **Go**: A Case Study of Real-Time Data Streaming [Link](https://dev.to/m-a-h-b-u-b/developing-high-performance-network-applications-in-go-a-case-study-of-real-time-data-streaming-2b77) 
