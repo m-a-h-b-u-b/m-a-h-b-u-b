@@ -7,8 +7,8 @@
 ## Open Source Contribution  
 - Systems Programming { [SecureIoTOS](https://github.com/m-a-h-b-u-b/SecureIoTOS) | [M2-Bootloader-Rust](https://github.com/m-a-h-b-u-b/M2-Bootloader-Rust) | [Custom Linux Distro for Corelight](https://github.com/m-a-h-b-u-b/custom-linux-distro-corelight) } 
 - AI/ML { [M2 Fraud Detection AI](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) | [M2 Spam Detector AI](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) | [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) | [M2ChatAI](https://github.com/m-a-h-b-u-b/M2ChatAI) }
-- React based Game { [Angry Blocks Attack](https://github.com/m-a-h-b-u-b/angry-blocks-attack) | [Police vs Thief](https://github.com/m-a-h-b-u-b/police-vs-thief-game-reactjs) }
-- VanillaJS based Game { [Arabic Balloon Pop](https://github.com/m-a-h-b-u-b/arabic-balloon-pop) } 
+- React based Game { [Angry Blocks Attack](https://m-a-h-b-u-b.github.io/angry-blocks-attack) | [Police vs Thief](https://m-a-h-b-u-b.github.io/police-vs-thief-game-reactjs) }
+- VanillaJS based Game { [Arabic Balloon Pop](https://m-a-h-b-u-b.github.io/arabic-balloon-pop) } 
 - TypeScript based Game { [Typing Speed Game](https://m-a-h-b-u-b.github.io/typing-speed-game/) }  
 
 ## I Love ❤️ writing Articles
