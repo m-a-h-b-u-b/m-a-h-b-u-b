@@ -11,6 +11,7 @@ I am simple, nothing special. I love software engineering, have a tendency to ar
 - JavaScript based Game { [Angry Blocks Attack](https://github.com/m-a-h-b-u-b/angry-blocks-attack) | [Police vs Thief](https://github.com/m-a-h-b-u-b/police-vs-thief-game-reactjs) | [Arabic Balloon Pop](https://github.com/m-a-h-b-u-b/arabic-balloon-pop) } 
 
 ## I Love ❤️ writing Articles
+- **Node.js vs Python: Real Benchmarks**, Performance Insights, and Scalability Analysis [Link](https://dev.to/m-a-h-b-u-b/nodejs-vs-python-real-benchmarks-performance-insights-and-scalability-analysis-4dm5)
 - **Scaling Node.js Applications to Millions of Users**: A Practical Guide [Link](https://dev.to/m-a-h-b-u-b/scaling-nodejs-applications-to-millions-of-users-a-practical-guide-3mpm)
 - Why **PHP frameworks often (still) perform slower** than Python / Go / Rust / Java frameworks [Link](https://dev.to/m-a-h-b-u-b/why-php-frameworks-often-still-perform-slower-than-python-go-rust-java-frameworks-4457)
 - **Why eFuses Matter in Firmware Security**: Permanent Storage, Anti-Rollback, and Device Identity [Link](https://dev.to/m-a-h-b-u-b/why-efuses-matter-in-firmware-security-permanent-storage-anti-rollback-and-device-identity-4fon)
