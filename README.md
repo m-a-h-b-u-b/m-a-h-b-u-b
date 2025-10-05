@@ -1,6 +1,5 @@
 # Md Mahbubur Rahman  
 
-I am simple, nothing special. I love software engineering, have a tendency to argue with compilers.
 
 🌐 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [SoftwareEng.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [Unix.SE](https://unix.stackexchange.com/users/23069/md-mahbubur-rahman) | [GitHub](https://github.com/m-a-h-b-u-b)
 
