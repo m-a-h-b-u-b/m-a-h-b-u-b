@@ -9,9 +9,10 @@
 - AI/ML { [M2 Fraud Detection AI](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) | [M2 Spam Detector AI](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) | [M2 Log Analyzer AI](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) | [M2ChatAI](https://github.com/m-a-h-b-u-b/M2ChatAI) }
 - React based Game { [Angry Blocks Attack](https://m-a-h-b-u-b.github.io/angry-blocks-attack) | [Police vs Thief](https://m-a-h-b-u-b.github.io/police-vs-thief-game-reactjs) }
 - VanillaJS based Game { [Arabic Balloon Pop](https://m-a-h-b-u-b.github.io/arabic-balloon-pop) } 
-- TypeScript based Game { [Typing Speed Game](https://m-a-h-b-u-b.github.io/typing-speed-game/) }  
+- TypeScript based Game { [Typing Speed Game](https://m-a-h-b-u-b.github.io/typing-speed-game/) | [Endless Runner Game](https://m-a-h-b-u-b.github.io/endless-runner-game/) }  
 
 ## I Love ❤️ writing Articles
+- Build a Browser-Based **Endless Runner Game in TypeScript**: Step-by-Step Guide for Beginners [Link](https://dev.to/m-a-h-b-u-b/build-a-browser-based-endless-runner-game-in-typescript-step-by-step-guide-for-beginners-4k4n) 
 - **Node.js vs Python: Real Benchmarks**, Performance Insights, and Scalability Analysis [Link](https://dev.to/m-a-h-b-u-b/nodejs-vs-python-real-benchmarks-performance-insights-and-scalability-analysis-4dm5)
 - **Scaling Node.js Applications to Millions of Users**: A Practical Guide [Link](https://dev.to/m-a-h-b-u-b/scaling-nodejs-applications-to-millions-of-users-a-practical-guide-3mpm)
 - Why **PHP frameworks often (still) perform slower** than Python / Go / Rust / Java frameworks [Link](https://dev.to/m-a-h-b-u-b/why-php-frameworks-often-still-perform-slower-than-python-go-rust-java-frameworks-4457)
