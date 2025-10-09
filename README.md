@@ -12,6 +12,7 @@
 - TypeScript based Game { [Typing Speed Game](https://m-a-h-b-u-b.github.io/typing-speed-game/) | [Endless Runner Game](https://m-a-h-b-u-b.github.io/endless-runner-game/) }  
 
 ## I Love ❤️ writing Articles
+- he Ultimate Guide to **Choosing the Right License for Your Software Project**: From MIT to GPL Explained [Link](https://dev.to/m-a-h-b-u-b/the-ultimate-guide-to-choosing-the-right-license-for-your-software-project-from-mit-to-gpl-h9e)
 - Build a Browser-Based **Endless Runner Game in TypeScript**: Step-by-Step Guide for Beginners [Link](https://dev.to/m-a-h-b-u-b/build-a-browser-based-endless-runner-game-in-typescript-step-by-step-guide-for-beginners-4k4n) 
 - **Node.js vs Python: Real Benchmarks**, Performance Insights, and Scalability Analysis [Link](https://dev.to/m-a-h-b-u-b/nodejs-vs-python-real-benchmarks-performance-insights-and-scalability-analysis-4dm5)
 - **Scaling Node.js Applications to Millions of Users**: A Practical Guide [Link](https://dev.to/m-a-h-b-u-b/scaling-nodejs-applications-to-millions-of-users-a-practical-guide-3mpm)
