@@ -44,7 +44,7 @@ I regularly write research-backed, practical articles on **systems programming**
 - The **Ultimate Rust vs C/C++ Battle: Real-World Lessons from Industry Experts** [Link](https://dev.to/m-a-h-b-u-b/the-ultimate-rust-vs-cc-battle-real-world-lessons-from-industry-experts-4pf4)
 - **Why Learning Rust is Essential**: Insights from a **Software Engineer with 10+ Years Experience**  [Link](https://dev.to/m-a-h-b-u-b/why-learning-rust-is-essential-insights-from-a-software-engineer-with-10-years-experience-16fg)
 - **Timing Attacks and Their Remedies** — an in-depth guide [Link](https://dev.to/m-a-h-b-u-b/timing-attacks-and-their-remedies-an-in-depth-guide-2j4)
-- - **Why eFuses Matter in Firmware Security**: Permanent Storage, Anti-Rollback, and Device Identity [Link](https://dev.to/m-a-h-b-u-b/why-efuses-matter-in-firmware-security-permanent-storage-anti-rollback-and-device-identity-4fon)
+- **Why eFuses Matter in Firmware Security**: Permanent Storage, Anti-Rollback, and Device Identity [Link](https://dev.to/m-a-h-b-u-b/why-efuses-matter-in-firmware-security-permanent-storage-anti-rollback-and-device-identity-4fon)
 
 #### Modern backend architectures
 - **Node.js vs Python: Real Benchmarks**, Performance Insights, and Scalability Analysis [Link](https://dev.to/m-a-h-b-u-b/nodejs-vs-python-real-benchmarks-performance-insights-and-scalability-analysis-4dm5)
