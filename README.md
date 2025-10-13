@@ -13,7 +13,7 @@ I’m a passionate software engineer who builds **high-performance systems**, **
 - [**M2-Bootloader-Rust**](https://github.com/m-a-h-b-u-b/M2-Bootloader-Rust) — Lightweight bootloader written in Rust for secure firmware updates and rollback protection.  
 - [**M2Battery**](https://m-a-h-b-u-b.github.io/m2battery/) — AI-powered battery doctor for Ubuntu — monitor, analyze, and predict laptop battery health from your terminal using TensorFlow Lite. 
 
-#### 🐳 Docker & Containerization Tools  
+### 🐳 Docker & Containerization Tools  
 - [**M2DTop**](https://github.com/m-a-h-b-u-b/m2dtop) — Real-time Docker container monitor with color-coded CPU/memory bars, live CLI dashboard, export to JSON/CSV, and optional logging  
 - [**DockerInspector**](https://github.com/m-a-h-b-u-b/dockerinspector) — CLI tool to scan Docker images for vulnerabilities, misconfigurations, and optimization opportunities. 
   
