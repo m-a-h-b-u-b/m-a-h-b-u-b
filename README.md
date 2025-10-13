@@ -11,7 +11,12 @@ I’m a passionate software engineer who builds **high-performance systems**, **
 ### 🧩 Systems Programming  
 - [**SecureIoTOS**](https://github.com/m-a-h-b-u-b/SecureIoTOS) — A secure embedded micro-OS for IoT devices with built-in cryptographic modules using Rust.   
 - [**M2-Bootloader-Rust**](https://github.com/m-a-h-b-u-b/M2-Bootloader-Rust) — Lightweight bootloader written in Rust for secure firmware updates and rollback protection.  
+- [**M2Battery**](https://m-a-h-b-u-b.github.io/m2battery/) — AI-powered battery doctor for Ubuntu — monitor, analyze, and predict laptop battery health from your terminal using TensorFlow Lite. 
 
+#### 🐳 Docker & Containerization Tools  
+- [**M2DTop**](https://github.com/m-a-h-b-u-b/m2dtop) — Real-time Docker container monitor with color-coded CPU/memory bars, live CLI dashboard, export to JSON/CSV, and optional logging  
+- [**DockerInspector**](https://github.com/m-a-h-b-u-b/dockerinspector) — CLI tool to scan Docker images for vulnerabilities, misconfigurations, and optimization opportunities. 
+  
 ### 🤖 Artificial Intelligence & Machine Learning  
 - [**M2 Fraud Detection AI**](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) — Real-time anomaly detection using hybrid ML models.  
 - [**M2 Spam Detector AI**](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) — Natural language–based spam detection pipeline with FastAPI + TensorFlow Lite.  
@@ -57,7 +62,7 @@ I regularly write research-backed, practical articles on **systems programming**
 - The Ultimate Guide to **Choosing the Right License for Your Software Project**: From MIT to GPL Explained [Link](https://dev.to/m-a-h-b-u-b/the-ultimate-guide-to-choosing-the-right-license-for-your-software-project-from-mit-to-gpl-h9e)
 - Build a Browser-Based **Endless Runner Game in TypeScript**: Step-by-Step Guide for Beginners [Link](https://dev.to/m-a-h-b-u-b/build-a-browser-based-endless-runner-game-in-typescript-step-by-step-guide-for-beginners-4k4n) 
 
-## Passionate About Answering Questions of Engineers 💡 
+## 💡 Passionate About Answering Questions of Engineers  
 - Why Was **Python Written with the GIL**? [Link](https://softwareengineering.stackexchange.com/questions/186889/why-was-python-written-with-the-gil/186909#186909)
 - **Is GCC dying without threads support** on Windows? [Link](https://softwareengineering.stackexchange.com/questions/195639/is-gcc-dying-without-threads-support-on-windows/195731#195731)
 - Good Practices of **writing release notes** [Link](https://softwareengineering.stackexchange.com/questions/167578/good-practices-of-writing-release-notes/167579#167579)
