@@ -36,6 +36,7 @@ I regularly write research-backed, practical articles on **systems programming**
 ### 🧭 Featured Articles
 
 #### AI/ML
+- Mastering Distributed Machine Learning: How to **10X Your PyTorch Training Speed** with Ray & DDP [Link](https://dev.to/m-a-h-b-u-b/mastering-distributed-machine-learning-how-to-10x-your-pytorch-training-speed-with-ray-ddp-5hgg)
 - How I Tuned **Python to Analyze 1 Million Tweets** in Real-Time with **Apache Kafka and GPU NLP** [Link](https://dev.to/m-a-h-b-u-b/how-i-tuned-python-to-analyze-1-million-tweets-in-real-time-with-apache-kafka-and-gpu-nlp-31a8)
 - Wanna **Switch from Backend Dev to AI/ML Engineer?** A Research-Backed, Practical Guide [link](https://dev.to/m-a-h-b-u-b/wanna-switch-from-backend-dev-to-aiml-engineer-a-research-backed-practical-guide-2pnh)
 - **How AI Will Transform Software Engineering Jobs by 2030**: Insights from a Software Engineer with 10+ Years of Experience [Link](https://dev.to/m-a-h-b-u-b/how-ai-will-transform-software-engineering-jobs-by-2030-insights-from-a-software-engineer-with-10-2jh2)
