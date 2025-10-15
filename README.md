@@ -85,9 +85,7 @@ I regularly write research-backed, practical articles on **systems programming**
 - **Testing:**  pytest | cargo test | Jest | Mocha + Chai  
 
 ## ⚡ Fun Facts
-- I talk to databases more than humans.
-- I once fixed a bug faster than the build process finished.  
-- Dark mode isn’t a preference—it’s a lifestyle 🌑.  
-- My TODO list has version control (because, of course).  
-- Keyboard shortcuts are my love language ⌨️❤️.  
+- I talk to machines more than humans.  
+- Dark mode isn’t a preference—it’s a lifestyle   
+- My TODO list has version control (because, of course).    
 
