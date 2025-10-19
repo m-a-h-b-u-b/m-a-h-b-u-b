@@ -6,14 +6,6 @@
 ## 🚀 About Me  
 I’m a passionate software engineer who builds **high-performance systems**, **AI-driven tools**, and **developer-friendly open-source projects**. Over the last decade, I’ve worked across the full spectrum of modern engineering — from **bare-metal bootloaders** to **large-scale AI inference pipelines**.  When I’m not optimizing code, I write deep-dive articles that transform complex tech into practical, actionable knowledge for developers worldwide.
 
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor':'#FFE0F5','fontSize':'14px'}}}%%
-pie title Where My Code Lives
-    "Python (Data Science)" : 45
-    "Python (ML/AI)" : 30
-    "JavaScript (Viz)" : 15
-    "R (Stats)" : 8
-    "Shell (Automation)" : 2
-
 
 ## 🧠 Engineering & AI Projects — What I’ve Been Building
 
