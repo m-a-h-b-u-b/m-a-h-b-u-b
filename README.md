@@ -26,7 +26,7 @@ I’m a passionate software engineer who builds **high-performance systems**, **
 
 ### 🎮 Games & Frontend Projects  
 - **React-based:** [*Angry Blocks Attack*](https://m-a-h-b-u-b.github.io/angry-blocks-attack), [*Police vs Thief*](https://m-a-h-b-u-b.github.io/police-vs-thief-game-reactjs)  
-- **VanillaJS:** [*Arabic Balloon Pop*](https://m-a-h-b-u-b.github.io/arabic-balloon-pop)  
+- **VanillaJS:** [*Arabic Balloon Pop*](https://m-a-h-b-u-b.github.io/arabic-balloon-pop), [Typing-Game-js](https://m-a-h-b-u-b.github.io/typing-game-js)  
 - **TypeScript:** [*Typing Speed Game*](https://m-a-h-b-u-b.github.io/typing-speed-game/), [*Endless Runner Game*](https://m-a-h-b-u-b.github.io/endless-runner-game/)   
 
 
