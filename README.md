@@ -4,7 +4,7 @@
 [uHunt](https://uhunt.onlinejudge.org/id/33572)  | [StackOverflow](https://stackoverflow.com/users/1599736/md-mahbubur-rahman) | [SoftwareEng.SE](https://softwareengineering.stackexchange.com/users/63715/md-mahbubur-rahman) | [Unix.SE](https://unix.stackexchange.com/users/23069/md-mahbubur-rahman) 
 
 ## 🚀 About Me  
-I’m a passionate software engineer who builds **high-performance systems**, **AI-driven tools**, and who **talks a lot of time with compiler, operating systems, tools and database engines.**. Over the last decade, I’ve worked across the full spectrum of modern engineering — from **bare-metal bootloaders** to **large-scale AI inference pipelines**.  When I’m not optimizing code, I write deep-dive articles that transform complex tech into practical, actionable knowledge for developers worldwide.
+I’m a passionate software engineer who builds **high-performance systems**, **AI-driven tools**, and who **talks a lot of time with compilers, debuggers, assemblers, operating systems, tools and database engines**. Over the last decade, I’ve worked across the full spectrum of modern engineering — from **bare-metal bootloaders** to **large-scale AI inference pipelines**.  When I’m not optimizing code, I write deep-dive articles that transform complex tech into practical, actionable knowledge for developers worldwide.
 
 
 ## 🧠 Engineering & AI Projects — What I’ve Been Building
