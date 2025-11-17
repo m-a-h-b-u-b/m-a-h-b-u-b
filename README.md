@@ -22,7 +22,8 @@ I’m a passionate software engineer who builds **high-performance systems**, **
 - [**M2 Fraud Detection AI**](https://github.com/m-a-h-b-u-b/M2-Fraud-Detection-AI) — Real-time anomaly detection using hybrid ML models.  
 - [**M2 Spam Detector AI**](https://github.com/m-a-h-b-u-b/M2-Spam-Detector-AI) — Natural language–based spam detection pipeline with FastAPI + TensorFlow Lite.  
 - [**M2 Log Analyzer AI**](https://github.com/m-a-h-b-u-b/M2-Log-Analyzer-AI) — AI system for log pattern detection and predictive failure analysis.  
-- [**M2ChatAI**](https://github.com/m-a-h-b-u-b/M2ChatAI) — Context-aware chat engine with local fine-tuning support.  
+- [**M2ChatAI**](https://github.com/m-a-h-b-u-b/M2ChatAI) — Context-aware chat engine with local fine-tuning support.
+- [**M2 Research Assistant**](https://github.com/m-a-h-b-u-b/m2-research-assistant) - AI-powered research assistant that summarizes and answers questions from uploaded PDFs using a RAG pipeline. 
 
 ### 🎮 Games & Frontend Projects  
 - **React-based:** [*Angry Blocks Attack*](https://m-a-h-b-u-b.github.io/angry-blocks-attack), [*Police vs Thief*](https://m-a-h-b-u-b.github.io/police-vs-thief-game-reactjs)  
